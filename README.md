@@ -1,3 +1,9 @@
+#this project is submitted by 
+AP24110010307 P VENKATA JAGADEESH 
+AP24110010248 G.VEEKSHANA
+AP24110010255 M.THANUSRI
+
+
 # CPU Scheduling Simulator
 
 ## Project Overview
